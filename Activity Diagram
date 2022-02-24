@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-24T17:01:37.210Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="Xpk4JyA458cp0KQU8lTV" version="16.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-24T17:04:04.407Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="XQbD8l40Ppm_tRBFi2oW" version="16.6.3" type="github">
   <diagram id="F3htXjOwUpBnGoWkqgXn" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -97,6 +97,9 @@
             <mxPoint x="275" y="270" as="sourcePoint" />
             <mxPoint x="275" y="270" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="MTwnfzCH4-cYvV87vrOB-1" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Activity diagram for game iteration&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="391" y="25" width="373" height="22" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
